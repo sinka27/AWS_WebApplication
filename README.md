@@ -21,6 +21,8 @@ Power of Math is a comprehensive AWS-powered web application designed to simplif
   * IntelliJ IDEA CE
   * GitHub
   * Java
+  * HTML
+  * CSS
   * AWS features: DynamoDB, Lambda, API Gateways, CloudWatch, IAM, Amplify
 
 ## Links
